@@ -1,0 +1,44 @@
+
+.contact-container{
+    width:100vw;
+    background-color: white;
+    height:100vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.success-msg{
+    color:#57A773;
+    padding: 10px 15px;
+}
+.err-msg{
+    color:#EE6352;
+    padding: 10px 15px;
+}
+.box{
+    width: 50vw;
+    margin-bottom: 30px;
+}
+.box-msg{
+    width: 50vw;
+    height: 20vh;
+    margin-bottom: 30px;
+}
+.contact-title{
+    font-size: 20px;
+    display: flex;
+}
+.name-title{
+align-self: flex-start !important;    
+}
+
+.form-group{
+    text-align: left;
+}
+.form{
+    width: 55vw !important;
+    align-self: center;
+    margin: auto;
+}

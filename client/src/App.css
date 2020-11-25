@@ -1,0 +1,12 @@
+
+html {
+    scroll-behavior: smooth;
+  }
+.app-container{
+    margin-top:55px;
+    overflow: auto;
+}
+
+.main-container{
+    overflow: hidden;
+}

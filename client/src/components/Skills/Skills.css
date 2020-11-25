@@ -1,0 +1,20 @@
+.skills-container{
+    width:100vw;
+    background-color: white;
+    height:100vh;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.skills-title{
+    font-size: 20px;
+    text-align: center;
+    font-weight:600;
+}
+
+.progress-skills{
+    height: 50%;
+    width: 70%;
+}

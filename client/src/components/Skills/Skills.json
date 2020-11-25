@@ -1,0 +1,26 @@
+[
+    {
+        "title":"C, Linux, OOP",
+        "color" :"#00ccff",
+        "level":"expert",
+        "percent":100
+    },
+    {
+        "title":"Java , C++",
+        "color" :"#00ccff",
+        "level":"expert",
+        "percent":90
+    },
+    {
+        "title":"Network, TCP/UDP",
+        "color" :"#00ccff",
+        "level":"expert",
+        "percent":70
+    },
+    {
+        "title":"Html, Css, JavaScript, Xml, Android, Web Application",
+        "color" :"#00ccff",
+        "level":"pro",
+        "percent":80
+    }
+    ]

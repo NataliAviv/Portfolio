@@ -1,0 +1,24 @@
+.header-container{
+    background-color: burlywood;
+    height: 50px;
+    justify-content: flex-end;
+    display: flex;
+    position: fixed;
+    top:0;
+    width: 100%;
+
+}
+.item-buttons{
+display: flex;
+align-self: flex-end; 
+justify-content: space-between;
+margin: 5px;
+
+}
+
+.menu-item-button{
+    cursor: pointer;
+    align-self: flex-end;
+    margin: 10px;
+    color: white;
+}

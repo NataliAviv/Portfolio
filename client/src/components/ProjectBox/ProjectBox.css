@@ -1,0 +1,27 @@
+.project-box-container{
+    height:45vh;
+    width: 30vw;
+    background: rgba(80,80,80,0.3);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.title-project-box{
+    margin-top: 20px;
+    font-size: 20px;
+
+}
+.lang-algo-box{
+    font-size: 10px;
+}
+.lang-project-box{
+    font-size: 10px;
+}
+.lang-gif-box{
+    width: 28vw;
+    height: 28vh;
+    align-self: center;
+}
+.lang-link-box{
+    font-size: 10px;
+}

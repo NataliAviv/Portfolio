@@ -1,0 +1,16 @@
+
+.projects-container{
+    width:100vw;
+    background-color: white;
+    height:100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+}
+.projects-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

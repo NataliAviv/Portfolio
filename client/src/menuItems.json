@@ -1,0 +1,27 @@
+[
+{
+    "title":"About",
+    "path" :"about",
+    "id":"about-container"
+},
+{
+    "title":"Skills",
+    "path" :"skills",
+    "id":"skills-container"
+},
+{
+    "title":"Projects",
+    "path" :"projects",
+    "id":"projects-container"
+},
+{
+    "title":"Contact",
+    "path" :"contact",
+    "id":"contact-container"
+},
+{
+    "title":"Resume",
+    "path" :"resume",
+    "id":"resume-container"
+}
+]

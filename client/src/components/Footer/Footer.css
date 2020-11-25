@@ -1,0 +1,23 @@
+.footer-container{
+    height:10vh;
+    width: 100%;
+    background-color: burlywood;
+    margin:0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.item-container{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+
+}
+.icon-container{
+    flex-direction: row;
+    display: flex;
+    width: 100px;
+justify-content: space-between;
+}
+
